@@ -1,1 +1,11 @@
-
+name: XStuffTool
+version: '1.0-SNAPSHOT'
+main: de.juliankey321.xStuffTool.XStuffTool
+api-version: '1.20'
+commands:
+  fly:
+   permission: fly.use
+  Freeze:
+    permission: freeze.use
+  nick:
+    permission: nick.use
